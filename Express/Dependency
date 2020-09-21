@@ -1,0 +1,7 @@
+To Run these file we need to initialise NPM and express
+
+Code to be writtend in CMD
+npm init: to Initiliase NPM
+npm install express: to intialise express
+npm install body-parser: to install body parser for reading data in post methods of form
+
